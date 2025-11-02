@@ -41,13 +41,14 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
-🔹 [**Java CI/CD with Jenkins, SonarQube, Docker, ArgoCD, Kubernetes**](https://github.com/abkaur/java-cicd-maven-jenkins-argocd-k8s)
-*End-to-end pipeline for a Java Spring Boot app built with Maven, integrated with Jenkins for build automation, SonarQube for code quality, and ArgoCD for GitOps deployment to Kubernetes.*
+🔹 [**Java CI/CD with Jenkins, Docker, ArgoCD, and Kubernetes**](https://github.com/abkaur/java-cicd-maven-jenkins-argocd-k8s)  
+*End-to-end CI/CD pipeline for a Java Spring Boot application built with Maven, integrated with Jenkins for automated builds, Docker for containerization, and Argo CD for GitOps-based deployment on Kubernetes.*  
 
-🔹 [**Python Web App with Jenkins & ArgoCD**](https://github.com/abkaur/ci-cd-python-webapp)
-*Containerized Python application with automated Jenkins build → Docker push → ArgoCD deployment workflow.*
+🔹 [**Python Web App with Jenkins, SonarQube, Trivy, and ArgoCD**](https://github.com/abkaur/ci-cd-python-webapp)  
+*Containerized Python web application featuring an automated Jenkins pipeline that performs SonarQube code analysis and Trivy image scanning for vulnerabilities, builds and pushes Docker images, and deploys updates to Kubernetes via Argo CD.*  
+
 
 ---
 
