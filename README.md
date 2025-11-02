@@ -53,8 +53,8 @@
 
 ## 🤝 Connect With Me
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abhijot-kaur/)
-* 📧 **Email:** [abkaur@example.com](mailto:abkaur@example.com)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abhijotkaur)
+* 📧 **Email:** [abhijotkaur1995@gmail.com](mailto:abhijotkaur1995@gmail.com)
 * 🌐 **Portfolio:** *(Coming soon!)*
 
 ---
