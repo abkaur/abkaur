@@ -42,15 +42,12 @@
 *Containerized Python application with automated Jenkins build → Docker push → ArgoCD deployment workflow.*
 
 ---
-📬 Connect With Me
+🤝 Connect With Me
 
-🔗 LinkedIn
 
-✉️ Email: abkaur@example.com
-
+📧 Email: abkaur@example.com
 🌐 Portfolio: (Coming soon!)
-
-💡 Quote I Follow
+🔗 LinkedIn
 
 
 ---
