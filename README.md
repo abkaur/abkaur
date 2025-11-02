@@ -42,28 +42,20 @@
 *Containerized Python application with automated Jenkins build → Docker push → ArgoCD deployment workflow.*
 
 ---
+📬 Connect With Me
 
-## 📊 GitHub Stats
+🔗 LinkedIn
 
-![Abhijot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abkaur\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abkaur\&layout=compact\&theme=radical)
+✉️ Email: abkaur@example.com
 
----
+🌐 Portfolio: (Coming soon!)
 
-## 💬 Connect With Me
+💡 Quote I Follow
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-📫 *Email:* [abkaur@example.com](mailto:abkaur@example.com)
-🌐 *Portfolio:* (Coming soon…)
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=abkaur\&color=brightgreen)
-![Trophy](https://github-profile-trophy.vercel.app/?username=abkaur\&theme=onedark)
-
----
-
-✨ *"Automate everything you can — from code to cloud."*
+✨ *"Automate what you can, learn what you can’t — yet."*
 
 
 
